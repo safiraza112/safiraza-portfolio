@@ -10,6 +10,6 @@
   var f=document.getElementById('contact-form');
   if(f){f.addEventListener('submit',function(e){e.preventDefault();
     var d=new FormData(f);
-    location.href='mailto:your.email@example.com?subject='+encodeURIComponent('Portfolio message from '+d.get('name'))+'&body='+encodeURIComponent(d.get('message')+'\n\n'+d.get('email'));
+    location.href='mailto:safi24raza@gmail.com?subject='+encodeURIComponent('Portfolio message from '+d.get('name'))+'&body='+encodeURIComponent(d.get('message')+'\n\n'+d.get('email'));
   })}
 })();
