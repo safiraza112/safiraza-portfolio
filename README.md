@@ -2,7 +2,7 @@
 
 A responsive, multi-page portfolio website for **Safi Raza**, an undergraduate Software Engineering student at Sindh Madressatul Islam University (SMIU), Karachi. It presents my background, skills, projects and contact details in one clean, fast website.
 
-**Live site:** _add your GitHub Pages link here after deployment_
+**Live site:** https://safiraza112.github.io/safiraza-portfolio/
 
 ---
 
